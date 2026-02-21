@@ -1,4 +1,4 @@
-# Project Name
+# Guess number with Golang
 
 ## About
 This is CLI mini-game on Golang to guess the pseudo-random number.
